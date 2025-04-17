@@ -14,6 +14,7 @@
    
 2. **Abra a solução do projeto**
 
+
 🧠 Principais decisões tomadas
 * Design Simples e Responsivo: Interface construída com HTML + Bootstrap para entregar uma experiência visual limpa e adaptável em dispositivos diferentes.
 
