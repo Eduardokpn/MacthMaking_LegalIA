@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\Tec_Legal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D96F4AAD-2464-44B2-9782-BE2A7FD9C292}|Tec_Legal\\Tec_Legal.csproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\tec_legal\\tec_legal\\views\\match\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D96F4AAD-2464-44B2-9782-BE2A7FD9C292}|Tec_Legal\\Tec_Legal.csproj|solutionrelative:tec_legal\\views\\match\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96F4AAD-2464-44B2-9782-BE2A7FD9C292}|Tec_Legal\\Tec_Legal.csproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\tec_legal\\tec_legal\\interfaces\\ipessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96F4AAD-2464-44B2-9782-BE2A7FD9C292}|Tec_Legal\\Tec_Legal.csproj|solutionrelative:tec_legal\\interfaces\\ipessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96F4AAD-2464-44B2-9782-BE2A7FD9C292}|Tec_Legal\\Tec_Legal.csproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\tec_legal\\tec_legal\\interfaces\\repository\\pessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96F4AAD-2464-44B2-9782-BE2A7FD9C292}|Tec_Legal\\Tec_Legal.csproj|solutionrelative:tec_legal\\interfaces\\repository\\pessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96F4AAD-2464-44B2-9782-BE2A7FD9C292}|Tec_Legal\\Tec_Legal.csproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\tec_legal\\tec_legal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D96F4AAD-2464-44B2-9782-BE2A7FD9C292}|Tec_Legal\\Tec_Legal.csproj|solutionrelative:tec_legal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96F4AAD-2464-44B2-9782-BE2A7FD9C292}|Tec_Legal\\Tec_Legal.csproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\tec_legal\\tec_legal\\controllers\\matchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96F4AAD-2464-44B2-9782-BE2A7FD9C292}|Tec_Legal\\Tec_Legal.csproj|solutionrelative:tec_legal\\controllers\\matchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96F4AAD-2464-44B2-9782-BE2A7FD9C292}|Tec_Legal\\Tec_Legal.csproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\tec_legal\\tec_legal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D96F4AAD-2464-44B2-9782-BE2A7FD9C292}|Tec_Legal\\Tec_Legal.csproj|solutionrelative:tec_legal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96F4AAD-2464-44B2-9782-BE2A7FD9C292}|Tec_Legal\\Tec_Legal.csproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\tec_legal\\tec_legal\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D96F4AAD-2464-44B2-9782-BE2A7FD9C292}|Tec_Legal\\Tec_Legal.csproj|solutionrelative:tec_legal\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96F4AAD-2464-44B2-9782-BE2A7FD9C292}|Tec_Legal\\Tec_Legal.csproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\tec_legal\\tec_legal\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96F4AAD-2464-44B2-9782-BE2A7FD9C292}|Tec_Legal\\Tec_Legal.csproj|solutionrelative:tec_legal\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96F4AAD-2464-44B2-9782-BE2A7FD9C292}|Tec_Legal\\Tec_Legal.csproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\tec_legal\\tec_legal\\models\\matchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96F4AAD-2464-44B2-9782-BE2A7FD9C292}|Tec_Legal\\Tec_Legal.csproj|solutionrelative:tec_legal\\models\\matchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96F4AAD-2464-44B2-9782-BE2A7FD9C292}|Tec_Legal\\Tec_Legal.csproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\tec_legal\\tec_legal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D96F4AAD-2464-44B2-9782-BE2A7FD9C292}|Tec_Legal\\Tec_Legal.csproj|solutionrelative:tec_legal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96F4AAD-2464-44B2-9782-BE2A7FD9C292}|Tec_Legal\\Tec_Legal.csproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\tec_legal\\tec_legal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96F4AAD-2464-44B2-9782-BE2A7FD9C292}|Tec_Legal\\Tec_Legal.csproj|solutionrelative:tec_legal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96F4AAD-2464-44B2-9782-BE2A7FD9C292}|Tec_Legal\\Tec_Legal.csproj|c:\\users\\eduar\\onedrive\\documentos\\projetos\\tec_legal\\tec_legal\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D96F4AAD-2464-44B2-9782-BE2A7FD9C292}|Tec_Legal\\Tec_Legal.csproj|solutionrelative:tec_legal\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 371,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\Tec_Legal\\Tec_Legal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Tec_Legal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\Tec_Legal\\Tec_Legal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Tec_Legal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T01:50:01.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\Tec_Legal\\Tec_Legal\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Tec_Legal\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\Tec_Legal\\Tec_Legal\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Tec_Legal\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-17T01:34:36.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\Tec_Legal\\Tec_Legal\\Views\\Match\\Index.cshtml",
+              "RelativeDocumentMoniker": "Tec_Legal\\Views\\Match\\Index.cshtml",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\Tec_Legal\\Tec_Legal\\Views\\Match\\Index.cshtml",
+              "RelativeToolTip": "Tec_Legal\\Views\\Match\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T23:25:26.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\Tec_Legal\\Tec_Legal\\appsettings.json",
+              "RelativeDocumentMoniker": "Tec_Legal\\appsettings.json",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\Tec_Legal\\Tec_Legal\\appsettings.json",
+              "RelativeToolTip": "Tec_Legal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAADsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T23:18:25.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\Tec_Legal\\Tec_Legal\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Tec_Legal\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\Tec_Legal\\Tec_Legal\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Tec_Legal\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T23:18:23.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\Tec_Legal\\Tec_Legal\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Tec_Legal\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\Tec_Legal\\Tec_Legal\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Tec_Legal\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T23:18:22.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatchController.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\Tec_Legal\\Tec_Legal\\Controllers\\MatchController.cs",
+              "RelativeDocumentMoniker": "Tec_Legal\\Controllers\\MatchController.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\Tec_Legal\\Tec_Legal\\Controllers\\MatchController.cs",
+              "RelativeToolTip": "Tec_Legal\\Controllers\\MatchController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T23:15:09.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\Tec_Legal\\Tec_Legal\\Program.cs",
+              "RelativeDocumentMoniker": "Tec_Legal\\Program.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\Tec_Legal\\Tec_Legal\\Program.cs",
+              "RelativeToolTip": "Tec_Legal\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:37:07.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PessoaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\Tec_Legal\\Tec_Legal\\Interfaces\\Repository\\PessoaRepository.cs",
+              "RelativeDocumentMoniker": "Tec_Legal\\Interfaces\\Repository\\PessoaRepository.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\Tec_Legal\\Tec_Legal\\Interfaces\\Repository\\PessoaRepository.cs",
+              "RelativeToolTip": "Tec_Legal\\Interfaces\\Repository\\PessoaRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAMwBcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:36:37.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPessoaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\Tec_Legal\\Tec_Legal\\Interfaces\\IPessoaRepository.cs",
+              "RelativeDocumentMoniker": "Tec_Legal\\Interfaces\\IPessoaRepository.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\Tec_Legal\\Tec_Legal\\Interfaces\\IPessoaRepository.cs",
+              "RelativeToolTip": "Tec_Legal\\Interfaces\\IPessoaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:19:33.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MatchResult.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\Tec_Legal\\Tec_Legal\\Models\\MatchResult.cs",
+              "RelativeDocumentMoniker": "Tec_Legal\\Models\\MatchResult.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\Tec_Legal\\Tec_Legal\\Models\\MatchResult.cs",
+              "RelativeToolTip": "Tec_Legal\\Models\\MatchResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:12:21.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\Tec_Legal\\Tec_Legal\\Models\\PersonModel.cs",
+              "RelativeDocumentMoniker": "Tec_Legal\\Models\\PersonModel.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documentos\\Projetos\\Tec_Legal\\Tec_Legal\\Models\\PersonModel.cs",
+              "RelativeToolTip": "Tec_Legal\\Models\\PersonModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:04:55.548Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

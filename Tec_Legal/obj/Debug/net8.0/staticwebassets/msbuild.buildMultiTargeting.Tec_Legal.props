@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tec_Legal.props" />
+</Project>

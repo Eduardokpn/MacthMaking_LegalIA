@@ -1,0 +1,43 @@
+﻿@model List<MatchResult>
+<link rel="stylesheet" href="~/css/site.css" />
+
+
+
+<section class=" d-flex justify-content-center" style="margin: 8%;">
+    <form asp-action="Buscar" method="post" style="background-color: #979797; box-shadow: 0 10px 4px 0 rgba(0, 0, 0, 0.25); padding:20px; justify-items:center; border-radius: 12px;">
+    <input name="nome" placeholder="Seu Nome" class="form-control mb-2" required />
+
+    <select name="areaInteresse" class="form-control mb-2" required>
+        <option value="">Área de Interesse</option>
+        <option value="Inteligência Artificial">Inteligência Artificial</option>
+        <option value="Direito Digital">Direito Digital</option>
+        <option value="Legal Design">Legal Design</option>
+        <option value="Privacidade de Dados">Privacidade de Dados</option>
+    </select>
+
+    <select name="localizacao" class="form-control mb-2" required>
+        <option value="">Localização</option>
+        <option value="São Paulo">São Paulo</option>
+        <option value="Rio de Janeiro">Rio de Janeiro</option>
+        <option value="Curitiba">Curitiba</option>
+        <option value="Belo Horizonte">Belo Horizonte</option>
+    </select>
+
+        <button style="border: solid 2px #FFFFFF; background-color: #979797;" type="submit" class="btn btn-primary">Buscar Conexões</button>
+</form>
+</section>
+
+@if (Model != null)
+{
+    <h3 class="mt-4">Conexões Encontradas:</h3>
+    @foreach (var item in Model)
+    {
+        <div class="border rounded p-3 mb-2" style="background-color: #CDCDCD; box-shadow: 0 4px 2px 0 rgba(0, 0, 0, 0.25);  ">
+            <strong>@item.Nome</strong><br />
+            Interesse: @item.AreaInteresse<br />
+            Local: @item.Localizacao<br />
+            Descricão: @item.Descricao<br />
+            Afinidade: <strong>@item.Afinidade%</strong>
+        </div>
+    }
+}
