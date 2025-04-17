@@ -8,11 +8,15 @@
 
 ### Passos
 
-1. **Clone o repositório**:
+1. Caso prefira acesse o sitema por: https://macthmakingit-dahzc2fphpf6f0dc.brazilsouth-01.azurewebsites.net
+
+2. **Clone o repositório**:
    ```bash
    git clone https://github.com/seuusuario/matchmaking-mvp.git
    
-2. **Abra a solução do projeto**
+3. **Abra a solução do projeto**
+
+4. **Não é necessario rodar script, pois o banco esta em nuvem**
 
 
 🧠 Principais decisões tomadas
